@@ -1,0 +1,10 @@
+app-shells/gentoo-zsh-completions
+app-shells/zsh
+app-shells/zsh-completions
+media-plugins/alsa-plugins
+media-sound/pulseaudio
+net-misc/networkmanager
+www-client/firefox
+sys-fs/btrfs-progs
+sys-fs/dosfstools
+sys-fs/ntfs3g

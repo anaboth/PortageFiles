@@ -1,4 +1,7 @@
 sys-devel/gdb
 =dev-qt/qt-creator-9999
 app-editors/vim
-
+media-libs/libsfml
+media-libs/libsdl2
+media-libs/sdl2-image
+media-libs/sdl2-ttf
