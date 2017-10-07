@@ -1,9 +1,10 @@
 kde-apps/dolphin
 kde-apps/konsole
 kde-apps/spectacle
-kde-frameworks/plasma
-kde-misc/latte-dock
 kde-plasma/plasma-desktop
-kde-plasma/plasma-meta
 kde-plasma/plasma-nm
+kde-plasma/plasma-pa
+kde-plasma/powerdevil
+kde-plasma/kscreen
+kde-plasma/sddm-kcm
 x11-misc/sddm
