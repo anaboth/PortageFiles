@@ -1,0 +1,1 @@
+LDFLAGS="${LD_FLAGS} -ldl"

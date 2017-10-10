@@ -1,0 +1,1 @@
+CFLAGS="-O3 -pipe -march=broadwell -fstack-protector-strong"
