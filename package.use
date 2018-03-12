@@ -240,3 +240,37 @@ x11-misc/rofi windowmode
 >=media-video/vlc-2.2.8 dbus ogg vorbis
 >=dev-qt/qtgui-5.9.3 dbus jpeg
 >=media-libs/phonon-vlc-0.9.1-r1 qt4
+>=kde-apps/ktp-common-internals-17.12.0 otr
+>=dev-python/PyQt5-5.9.2 widgets gui
+>=dev-qt/qtsql-5.9.3 mysql
+>=dev-qt/qtwebengine-5.9.3 widgets
+>=dev-qt/qtmultimedia-5.9.3 qml
+>=virtual/ffmpeg-9-r2 sdl
+>=media-video/ffmpeg-3.4.1 sdl
+>=media-libs/mlt-6.4.1-r5 sdl melt qt5 kdenlive xml
+>=dev-qt/qtwebchannel-5.9.3 qml
+>=app-text/poppler-0.57.0-r1 qt5
+>=dev-ruby/power_assert-1.1.1 ruby_targets_ruby25
+>=dev-ruby/rubygems-2.7.4 ruby_targets_ruby25
+>=dev-ruby/rake-12.3.0 ruby_targets_ruby25
+>=virtual/rubygems-14 ruby_targets_ruby25
+>=dev-ruby/minitest-5.10.3 ruby_targets_ruby25
+>=dev-ruby/kpeg-1.1.0 ruby_targets_ruby25
+>=dev-ruby/did_you_mean-1.2.0 ruby_targets_ruby25
+>=dev-ruby/xmlrpc-0.3.0 ruby_targets_ruby25
+>=dev-ruby/rdoc-6.0.1 ruby_targets_ruby25
+>=dev-ruby/racc-1.4.14 ruby_targets_ruby25
+>=dev-ruby/net-telnet-0.1.1-r1 ruby_targets_ruby25
+>=dev-ruby/test-unit-3.2.7 ruby_targets_ruby25
+>=dev-ruby/json-2.1.0 ruby_targets_ruby25
+app-admin/sudo offensive
+>=app-text/ghostscript-gpl-9.21 cups
+>=sys-boot/grub-2.02 mount
+>=app-crypt/gcr-3.20.0 gtk
+>=app-crypt/pinentry-1.0.0-r2 gnome-keyring
+dev-lang/python tk
+# required by sys-boot/plymouth-0.9.3-r1::gentoo[libkms]
+# required by kde-plasma/breeze-plymouth-9999::kde
+# required by @kde-plasma-live (argument)
+>=x11-libs/libdrm-2.4.90 libkms
+dev-util/cmake emacs qt5 
