@@ -1,19 +1,12 @@
-=dev-qt/qtdeclarative-5.7.1-r1
-=dev-qt/qtprintsupport-5.7.1
 # required by @preserved-rebuild (argument)
 # /etc/portage/package.mask:
-=dev-qt/qtwidgets-5.7.1
 # required by dev-qt/qtwebkit-5.7.1::gentoo
 # required by @preserved-rebuild (argument)
 # /etc/portage/package.mask:
-=dev-qt/qtcore-5.7.1-r3
 # required by dev-qt/qtwebkit-5.7.1::gentoo
 # required by @preserved-rebuild (argument)
 # /etc/portage/package.mask:
-=dev-qt/qtgui-5.7.1-r1
 # required by dev-qt/qtnetwork-5.7.1::gentoo[-connman,networkmanager]
 # required by dev-qt/qtwebkit-5.7.1::gentoo
 # required by @preserved-rebuild (argument)
 # /etc/portage/package.mask:
-=dev-qt/qtdbus-5.7.1
-=sys-fs/udev-235

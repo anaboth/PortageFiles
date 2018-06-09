@@ -1,0 +1,4 @@
+>=dev-java/oracle-jdk-bin-9.0.4-r2 Oracle-BCLA-JavaSE
+>=dev-java/oracle-jre-bin-9.0.4-r1 Oracle-BCLA-JavaSE
+>=app-emulation/virtualbox-bin-5.2.8.121009 PUEL
+>=app-emulation/genymotion-bin-2.11.0 genymotion

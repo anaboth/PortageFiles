@@ -1,0 +1,6 @@
+app-shells/gentoo-zsh-completions
+app-shells/zsh
+app-shells/zsh-completions
+media-plugins/alsa-plugins
+media-sound/pulseaudio
+net-misc/networkmanager

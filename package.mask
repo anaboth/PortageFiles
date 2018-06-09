@@ -1,9 +1,9 @@
-#<dev-qt/qtprintsupport-5.9.3
-#<dev-qt/qtwidgets-5.9.3
-#<dev-qt/qtdeclarative-5.9.3
-#<dev-qt/qtgui-5.9.3
-#<dev-qt/qtgui-5.7.1-r1
-#<dev-qt/qtcore-5.9.3
-#<dev-qt/qtdbus-5.9.3
-#kde-plasma/ksshaskpass
+kde-plasma/ksshaskpass
 sys-kernel/gentoo-sources
+*/*::unity-gentoo
+*/*::gnome
+*/*::gnome-next
+=x11-themes/elementary-icon-theme-9999
+=dev-libs/appstream-0.11.5
+=pantheon-base/pantheon-shell-9999
+*/*:9999
